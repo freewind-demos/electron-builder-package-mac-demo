@@ -12,9 +12,10 @@
   "build": {
     "appId": "electron-builder-package-mac-demo"
   },
-  "dependencies": {},
+  "dependencies": {
+    "electron": "6.0.2"
+  },
   "devDependencies": {
-    "electron": "6.0.2",
     "electron-builder": "21.2.0",
     "webpack": "4.8.3"
   }
