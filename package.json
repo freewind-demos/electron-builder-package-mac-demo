@@ -13,7 +13,7 @@
     "appId": "electron-builder-package-mac-demo"
   },
   "dependencies": {
-    "electron": "6.0.2"
+    "electron": "13.6.6"
   },
   "devDependencies": {
     "electron-builder": "21.2.0",
